@@ -1,6 +1,5 @@
-# JavaProject-TpPatronesCreacionalesBD-lombox-
-Sistema Biblioteca Digital con Patrones Creacionales (con Lombox)
-
+# JavaProject-TpPatronesCreacionalesBD
+Sistema Biblioteca Digital con Patrones Creacionales 
 
 Utn FRM 
 Desarrollo de Software 2025 
@@ -13,3 +12,4 @@ Integrantes del Grupo
 -Mateo Gutierrez 
 -Emanuel Tirano 
 -Rios Damian 
+
